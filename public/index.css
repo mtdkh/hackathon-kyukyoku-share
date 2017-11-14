@@ -1,0 +1,17 @@
+
+body {
+  margin: 1em;
+  font-family: 'Hiragino Kaku Gothic Pro','游ゴシック体','Yu Gothic',YuGothic,Meiryo,HelveticaNeue,'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+h1 {
+  font-size: 1.6em;
+  border: solid #000;
+  border-width: 0 0 1px 0;
+}
+iframe {
+  max-width: 100%;
+  overflow-x: scroll-x;
+}
+p>span {
+  font-weight: bold;
+}

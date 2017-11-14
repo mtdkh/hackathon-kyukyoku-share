@@ -1,0 +1,19 @@
+html
+  head
+    title 究曲シェア・極
+    link(rel='stylesheet', href='index.css')
+  body
+    h1 究曲シェア・極
+    p
+      strong Access token:
+      |  #{accessToken}
+    p
+      strong Position:
+      |  
+      span.time
+      | [ms]
+    #player
+    script.
+      var token="!{accessToken}"
+    script(src="https://api.songle.jp/v2/api.js")
+    script(src="index.js")
