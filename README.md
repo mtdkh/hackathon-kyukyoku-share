@@ -1,4 +1,4 @@
-# hackathon-kyukyoku-share
+# web-hackathon-kyukyokushare
 
 ## Description
 2017/11/10~11に産総研との合同ハッカソンで作成したサービス「究曲シェア-極-」
